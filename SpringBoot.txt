@@ -1,0 +1,24 @@
+27/02/2025(Thursday) 3rd class
+********************************
+****SPRING BOOT******
+-Spring Boot is an open source frame work which is built on top of spring framework.
+-With the help of spring boot we can develop production ready(ready to deploy into the market) application with minimal configuration(Less requirements of hardware support and resources).
+
+***MVC***
+M=>Model---Receive Request.
+V=>View---User interface
+C=>Controller---Responsible to give Request
+
+*In SpringBoot we use Annotations.
+-Annotations=>It is used to change the behaviour of core java class or a method.
+-We will write annotations with the help of "@".
+
+E-CART Application:
+1.AWS S3 bucket=>To store the objects like images, files.
+2.MYSQL=>To store login credentials of user.
+3.Spring boot=>To develop end-to-end applications
+4.ReactJS=>to develop front end application.
+-To connect MYSQL with backend we need a JPA repository.
+->Service is used to get the data from MYSQL using a JPA repository.
+->Controller is used to connect with frontend to get the data.
+
